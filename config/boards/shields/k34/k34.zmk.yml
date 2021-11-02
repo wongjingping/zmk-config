@@ -1,0 +1,8 @@
+file_format: "1"
+id: k34
+name: K34
+type: shield
+url: https://github.com/wongjingping/k34
+requires: [pro_micro]
+features:
+  - keys

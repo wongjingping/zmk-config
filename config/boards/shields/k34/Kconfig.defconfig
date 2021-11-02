@@ -1,0 +1,7 @@
+
+if SHIELD_K34
+
+config ZMK_KEYBOARD_NAME
+    default "K34"
+
+endif
