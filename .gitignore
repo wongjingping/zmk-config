@@ -1,0 +1,5 @@
+build/*
+modules/*
+tools/*
+zephyr/*
+zmk/*
